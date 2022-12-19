@@ -1,6 +1,6 @@
 package pck.myservices;
 
-public abstract class AbsMyService {
+public abstract class ServiceAbs {
     public String name;
     public int age;
 

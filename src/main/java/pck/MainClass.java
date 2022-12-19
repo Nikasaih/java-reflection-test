@@ -2,7 +2,7 @@ package pck;
 
 public class MainClass {
     public static void main(String[] args) {
-        SnifferAnotation snifferAnotation = new SnifferAnotation();
+        SnifferAnnotation snifferAnotation = new SnifferAnnotation();
         snifferAnotation.sniff();
     }
 }
